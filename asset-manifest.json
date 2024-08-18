@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/UFC/static/css/main.b22769e2.css",
-    "main.js": "/UFC/static/js/main.6e86b57e.js",
-    "static/media/khabib.jpg": "/UFC/static/media/khabib.a20c2289542e4857cc65.jpg",
-    "static/media/ufc1.jpg": "/UFC/static/media/ufc1.5fdccefdb721cc55fbb2.jpg",
-    "static/media/intro.jpg": "/UFC/static/media/intro.8f74fc3de2321ee2135c.jpg",
-    "static/media/ufc229.jpg": "/UFC/static/media/ufc229.7497d559267d75875e92.jpg",
-    "static/media/ufc.otf": "/UFC/static/media/ufc.3c9e4cf9868070b38901.otf",
-    "static/media/work.svg": "/UFC/static/media/work.4ecd12ba90d22e6163f4fc04c5aeb71f.svg",
-    "static/media/school.svg": "/UFC/static/media/school.39537be4498c806e38273f6918d76f21.svg",
-    "index.html": "/UFC/index.html",
-    "main.b22769e2.css.map": "/UFC/static/css/main.b22769e2.css.map",
-    "main.6e86b57e.js.map": "/UFC/static/js/main.6e86b57e.js.map"
+    "main.css": "/MMA2/static/css/main.637d0625.css",
+    "main.js": "/MMA2/static/js/main.1e6be0d1.js",
+    "static/media/khabib.jpg": "/MMA2/static/media/khabib.a20c2289542e4857cc65.jpg",
+    "static/media/ufc1.jpg": "/MMA2/static/media/ufc1.5fdccefdb721cc55fbb2.jpg",
+    "static/media/intro.jpg": "/MMA2/static/media/intro.8f74fc3de2321ee2135c.jpg",
+    "static/media/ufc229.jpg": "/MMA2/static/media/ufc229.7497d559267d75875e92.jpg",
+    "static/media/ufc.otf": "/MMA2/static/media/ufc.3c9e4cf9868070b38901.otf",
+    "static/media/work.svg": "/MMA2/static/media/work.4ecd12ba90d22e6163f4fc04c5aeb71f.svg",
+    "static/media/school.svg": "/MMA2/static/media/school.39537be4498c806e38273f6918d76f21.svg",
+    "index.html": "/MMA2/index.html",
+    "main.637d0625.css.map": "/MMA2/static/css/main.637d0625.css.map",
+    "main.1e6be0d1.js.map": "/MMA2/static/js/main.1e6be0d1.js.map"
   },
   "entrypoints": [
-    "static/css/main.b22769e2.css",
-    "static/js/main.6e86b57e.js"
+    "static/css/main.637d0625.css",
+    "static/js/main.1e6be0d1.js"
   ]
 }
