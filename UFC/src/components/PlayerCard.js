@@ -19,7 +19,7 @@ const PlayerCard = () => {
                 </div>
                 <div className="player-button">
                     <NavLink to="https://en.wikipedia.org/wiki/Deiveson_Figueiredo" className="btn">Wikipedia</NavLink>
-                    <NavLink to="https://www.transfermarkt.co.in/kevin-de-bruyne/profil/spieler/88755" className="btn2">Market</NavLink>
+                    
                 </div>
             </div> 
             <div className="player-card">
@@ -33,7 +33,7 @@ const PlayerCard = () => {
                 </div>
                 <div className="player-button">
                     <NavLink to="https://en.wikipedia.org/wiki/Brandon_Moreno" className="btn">Wikipedia</NavLink>
-                    <NavLink to="https://www.transfermarkt.co.in/erling-haaland/leistungsdaten/spieler/418560" className="btn2">Market</NavLink>
+                    
                 </div>
             </div> 
 
@@ -48,7 +48,7 @@ const PlayerCard = () => {
                 </div>
                 <div className="player-button">
                     <NavLink to="https://en.wikipedia.org/wiki/Aljamain_Sterling" className="btn">Wikipedia</NavLink>
-                    <NavLink to="https://www.transfermarkt.co.in/bernardo-silva/profil/spieler/241641" className="btn2">Market</NavLink>
+                    
                 </div>
             </div>
 
@@ -64,7 +64,7 @@ const PlayerCard = () => {
                 </div>
                 <div className="player-button">
                     <NavLink to="https://en.wikipedia.org/wiki/Henry_Cejudo" className="btn">Wikipedia</NavLink>
-                    <NavLink to="]https://www.transfermarkt.co.in/ilkay-gundogan/profil/spieler/53622" className="btn2">Market</NavLink>
+                    
                 </div>
             </div>
 
@@ -79,7 +79,7 @@ const PlayerCard = () => {
                 </div>
                 <div className="player-button">
                     <NavLink to="https://en.wikipedia.org/wiki/Alexander_Volkanovski" className="btn">Wikipedia</NavLink>
-                    <NavLink to="https://www.transfermarkt.co.in/riyad-mahrez/profil/spieler/171424" className="btn2">Market</NavLink>
+                    
                 </div>
             </div>
 
@@ -94,7 +94,7 @@ const PlayerCard = () => {
                 </div>
                 <div className="player-button">
                     <NavLink to="https://en.wikipedia.org/wiki/Max_Holloway" className="btn">Wikipedia</NavLink>
-                    <NavLink to="https://www.transfermarkt.co.in/phil-foden/profil/spieler/406635" className="btn2">Market</NavLink>
+                    
                 </div>
             </div>
 
@@ -109,7 +109,7 @@ const PlayerCard = () => {
                 </div>
                 <div className="player-button">
                     <NavLink to="https://en.wikipedia.org/wiki/Khabib_Nurmagomedov" className="btn">Wikipedia</NavLink>
-                    <NavLink to="https://www.transfermarkt.co.in/jack-grealish/profil/spieler/203460" className="btn2">Market</NavLink>
+                    
                 </div>
             </div>
 
@@ -124,7 +124,7 @@ const PlayerCard = () => {
                 </div>
                 <div className="player-button">
                     <NavLink to="https://en.wikipedia.org/wiki/Conor_McGregor" className="btn">Wikipedia</NavLink>
-                    <NavLink to="https://www.transfermarkt.co.in/julian-alvarez/profil/spieler/576024" className="btn2">Market</NavLink>
+                    
                 </div>
             </div>
 
@@ -139,7 +139,7 @@ const PlayerCard = () => {
                 </div>
                 <div className="player-button">
                     <NavLink to="https://en.wikipedia.org/wiki/Kamaru_Usman" className="btn">Wikipedia</NavLink>
-                    <NavLink to="https://www.transfermarkt.co.in/rodri/profil/spieler/357565" className="btn2">Market</NavLink>
+                   
                 </div>
             </div>
 
@@ -155,7 +155,7 @@ const PlayerCard = () => {
                 </div>
                 <div className="player-button">
                     <NavLink to="https://en.wikipedia.org/wiki/Colby_Covington" className="btn">Wikipedia</NavLink>
-                    <NavLink to="https://www.transfermarkt.co.in/kalvin-phillips/profil/spieler/351749" className="btn2">Market</NavLink>
+                   
                 </div>
             </div>
 
@@ -171,7 +171,7 @@ const PlayerCard = () => {
                 </div>
                 <div className="player-button">
                     <NavLink to="https://en.wikipedia.org/wiki/Israel_Adesanya" className="btn">Wikipedia</NavLink>
-                    <NavLink to="https://www.transfermarkt.co.in/manuel-akanji/profil/spieler/284730" className="btn2">Market</NavLink>
+                    
                 </div>
             </div>
 
@@ -186,7 +186,7 @@ const PlayerCard = () => {
                 </div>
                 <div className="player-button">
                     <NavLink to="https://en.wikipedia.org/wiki/Robert_Whittaker" className="btn">Wikipedia</NavLink>
-                    <NavLink to="https://www.transfermarkt.co.in/nathan-ake/profil/spieler/177476" className="btn2">Market</NavLink>
+                    
                 </div>
             </div>
 
@@ -201,7 +201,7 @@ const PlayerCard = () => {
                 </div>
                 <div className="player-button">
                     <NavLink to="https://en.wikipedia.org/wiki/Jamahal_Hill" className="btn">Wikipedia</NavLink>
-                    <NavLink to="https://www.transfermarkt.co.in/ruben-dias/profil/spieler/258004" className="btn2">Market</NavLink>
+                  
                 </div>
             </div>
 
@@ -216,7 +216,7 @@ const PlayerCard = () => {
                 </div>
                 <div className="player-button">
                     <NavLink to="https://en.wikipedia.org/wiki/Jan_Błachowicz" className="btn">Wikipedia</NavLink>
-                    <NavLink to="https://www.transfermarkt.co.in/john-stones/profil/spieler/186590" className="btn2">Market</NavLink>
+                   
                 </div>
             </div>
 
@@ -231,7 +231,7 @@ const PlayerCard = () => {
                 </div>
                 <div className="player-button">
                     <NavLink to="https://en.wikipedia.org/wiki/Jon_Jones" className="btn">Wikipedia</NavLink>
-                    <NavLink to="https://www.transfermarkt.co.in/aymeric-laporte/profil/spieler/176553" className="btn2">Market</NavLink>
+                   
                 </div>
             </div>
 
@@ -246,7 +246,7 @@ const PlayerCard = () => {
                 </div>
                 <div className="player-button">
                     <NavLink to="https://en.wikipedia.org/wiki/Stipe_Miocic" className="btn">Wikipedia</NavLink>
-                    <NavLink to="https://www.transfermarkt.co.in/kyle-walker/profil/spieler/95424" className="btn2">Market</NavLink>
+                    
                 </div>
             </div>
             

@@ -42,10 +42,12 @@
   }
   
   .fa-title {
-    font-weight: 400;
+    color: rgb(60, 227, 97);
+    font-weight: 600;
   }
   
   .fa-sub {
+    color: rgb(60, 227, 97);
     margin: 20px 0px;
   }
   

@@ -10,11 +10,15 @@ const Premier = () => {
     <AnimatedPage>
     <div>
       <Navbar />
-      <HeroImg2 heading="KHABIB NURMAGOMEDOV 12-20" text="Welcome to the analysis of the Fights. "/>
-      <MatchCard/>
+      <HeroImg2 
+      heading={<span className="khabib">KHABIB NURMAGOMEDOV 12-20</span>} 
+      text={<span className="khabib">Welcome to the analysis of the Fights.</span>} 
+    />
+
+      <MatchCard />
       <Footer />
-      
     </div>
+
     </AnimatedPage>
   )
 }

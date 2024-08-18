@@ -46,3 +46,104 @@
     
     
 }
+.hero {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+    position: relative;
+}
+
+.mask {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.intro-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.content {
+    z-index: 1;
+    text-align: center;
+}
+
+.cool-button {
+    background: linear-gradient(135deg, #ff4b4b, #1a1a1a);
+    border: none;
+    border-radius: 60px;
+    color: rgb(39, 179, 11);
+    
+    width: 300px; /* Fixed width */
+    height: 70px;  /* Fixed height */
+    font-size: 20px;
+    font-weight: 700;
+    cursor: pointer;
+    transition: background 0.5s ease, box-shadow 0.5s ease;
+    box-shadow: 0 8px 20px rgba(255, 75, 75, 0.5);
+    position: relative;
+    overflow: hidden;
+    outline: none;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    padding: 0 20px;
+    margin: 10px 0; /* Adding some margin between buttons */
+}
+
+.cool-button:hover {
+    background: linear-gradient(135deg, #1a1a1a, #ff4b4b);
+    box-shadow: 0 12px 30px rgba(255, 75, 75, 0.8);
+}
+
+.cool-button:active {
+    box-shadow: 0 6px 15px rgba(255, 75, 75, 0.6);
+}
+
+.cool-button a {
+    color: rgb(62, 228, 98);
+    text-decoration: none;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.content {
+    z-index: 1;
+    text-align: center;
+    position: relative;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* Center content vertically */
+    align-items: center;     /* Center content horizontally */
+}
+
+.cool-button-container {
+    position: absolute;
+    bottom: 20px; /* Adjust to your preference */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.khabib {
+    color: #ffffff; /* White color for text */
+    text-shadow: 
+        0 0 20px #FFD700,  /* Even larger outer glow */
+        0 0 25px #FFD700,  /* Even larger outer glow */
+        0 0 30px #ffffff,  /* White outer glow */
+        0 0 45px #ffffff;  /* Largest white outer glow */
+}
+

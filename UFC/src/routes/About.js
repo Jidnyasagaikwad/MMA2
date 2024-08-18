@@ -11,7 +11,7 @@ const About = () => {
     <div>
       
       <Navbar />
-      <HeroImg2 heading="Our Squad" text="Welcome to the Team."/>
+      <HeroImg2 heading="My Squad" text="Welcome to the Team."/>
       <PlayerCard />
       <Footer />
     </div>

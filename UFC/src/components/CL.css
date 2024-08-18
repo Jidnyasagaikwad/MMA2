@@ -47,10 +47,12 @@
   }
   
   .a-title {
-    font-weight: 400;
+    color: rgb(60, 227, 97);
+    font-weight: 600;
   }
   
   .a-sub {
+    color: rgb(60, 227, 97);
     margin: 20px 0px;
   }
   
